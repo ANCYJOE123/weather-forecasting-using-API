@@ -1,4 +1,5 @@
-# codeclause_01
+# Weather forecasting using API
+
 This is a weather application using API which is developed using html,css and javascript.
 The output samples are as follows
 ![we1](https://github.com/ANCYJOE123/codeclause_01/assets/123748672/881bc152-7980-4ddc-8849-94b9828ba5e6)
